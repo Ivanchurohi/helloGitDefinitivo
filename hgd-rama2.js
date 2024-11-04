@@ -1,0 +1,1 @@
+consolele.log("hgd-rama2.js");
